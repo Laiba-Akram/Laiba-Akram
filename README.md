@@ -2,7 +2,6 @@
 - 👀 I’m interested in Design & Development
 - 🌱 I’m currently learning new technology & languages
 - 💞️ I’m looking to collaborate on software Houses
-- 📫 Reach me at Social Media
 
 <a href="https://solutionexpertsz.blogspot.com/" ><h2>Website<h2></a>
 <!---
