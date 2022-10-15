@@ -1,5 +1,5 @@
 
-![Frame 1](https://user-images.githubusercontent.com/92920442/189840289-c00b4294-ee60-4dcd-b26d-c5b6bdbda9bd.jpg)
+![Frame 1](https://user-images.githubusercontent.com/92920442/195984516-8cc4c754-ed8e-4237-8875-8e872d25b8b3.jpg)
 
 
 - 👋 Hi, I’m @Laiba-Akram
