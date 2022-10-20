@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m @Laiba-Akram
-- 👀 I’m interested in Design & Development
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning new technology & languages
-- 💞️ I’m looking to collaborate on software Houses
+- 💞️ I’m looking to collaborate on Big Organizations
 
 <a href="https://solutionexpertsz.blogspot.com/" ><h2>Website<h2></a>
 
