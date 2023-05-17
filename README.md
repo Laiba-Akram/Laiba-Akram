@@ -2,17 +2,17 @@
 ![Frame 1](https://user-images.githubusercontent.com/92920442/205604357-a9cac418-08f3-43bb-a645-8259322a4291.jpg)
 
 
-- 👋 Hi, I’m @Laiba-Akram
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning new technology & languages
-- 💞️ I’m looking to collaborate on Big Organizations
+<h1>Software Engineer - Full Stack</h1>
+Welcome to my GitHub repository! This repository showcases my work as a Full Stack Software Engineer. Here, you'll find a collection of projects that demonstrate my skills and expertise in building web applications from front-end to back-end. Feel free to explore and reach out to me if you have any questions or collaboration opportunities.
+  <h2>Contact Me</h2>
+<b>Feel free to connect with me via LinkedIn for any professional inquiries or opportunities.
 
+I am actively seeking new challenges and collaborations, so if you're interested in working together, don't hesitate to reach out.
+
+Thank you for visiting my GitHub repository! Happy coding!</b>
+  
 <a href="https://solutionexpertsz.blogspot.com/" ><h2>Website<h2></a>
 
 <a href="https://www.youtube.com/channel/UC2E4VHKpErPaGK1ecyiBVmQ" ><h2>Youtube Channel<h2></a>
 
 
-<!---
-Laiba-Akram/Laiba-Akram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
