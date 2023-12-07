@@ -11,10 +11,11 @@ I am actively seeking new challenges and collaborations, so if you're interested
 
 Thank you for visiting my GitHub repository! Happy coding!</b>
   
-<a href="https://solutionexpertsz.blogspot.com/" ><h2>Website<h2></a>
+[Website](https://solutionexpertsz.blogspot.com/)
 
-<a href="https://www.youtube.com/channel/UC2E4VHKpErPaGK1ecyiBVmQ" ><h2>Youtube Channel<h2></a>
+[Youtube Channel](https://www.youtube.com/channel/UC2E4VHKpErPaGK1ecyiBVmQ)
 
-<a href="https://www.instagram.com/techskills10/" ><h2>Instagram Page<h2></a>
+[Instagram Page](https://www.instagram.com/techskills10/)
 
-<a href="https://www.facebook.com/techskills10/" ><h2>Facebook Page<h2></a>
+[Facebook Page](https://www.facebook.com/techskills10/)
+
