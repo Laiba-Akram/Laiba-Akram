@@ -15,4 +15,6 @@ Thank you for visiting my GitHub repository! Happy coding!</b>
 
 <a href="https://www.youtube.com/channel/UC2E4VHKpErPaGK1ecyiBVmQ" ><h2>Youtube Channel<h2></a>
 
+<a href="https://www.instagram.com/techskills10/" ><h2>Instagram Page<h2></a>
 
+<a href="https://www.facebook.com/techskills10/" ><h2>Facebook Page<h2></a>
