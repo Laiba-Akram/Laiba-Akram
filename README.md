@@ -19,3 +19,12 @@ Thank you for visiting my GitHub repository! Happy coding!</b>
 
 [Facebook Page](https://www.facebook.com/techskills10/)
 
+[Linkedin Profile]((https://www.linkedin.com/in/laiba-akram-360b23231/))
+
+[Stack Overflow]((https://stackoverflow.com/users/19164877/laiba-akram))
+
+[Medium]((https://medium.com/@LaibaAkram678))
+
+
+
+
