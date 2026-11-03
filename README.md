@@ -10,14 +10,8 @@ Welcome to my GitHub repository! This repository showcases my work as a Full Sta
 I am actively seeking new challenges and collaborations, so if you're interested in working together, don't hesitate to reach out.
 
 Thank you for visiting my GitHub repository! Happy coding!</b>
-  
-[Website](https://solutionexpertsz.blogspot.com/)
 
 [Youtube Channel](https://www.youtube.com/channel/UC2E4VHKpErPaGK1ecyiBVmQ)
-
-[Instagram Page](https://www.instagram.com/techskills10/)
-
-[Facebook Page](https://www.facebook.com/techskills10/)
 
 [Linkedin Profile](https://www.linkedin.com/in/laiba-akram-360b23231/)
 
