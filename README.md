@@ -59,9 +59,9 @@ Credentials from Google, Huawei, and Coursera.
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laiba-Akram&show_icons=true&theme=transparent&title_color=176B68&icon_color=D4A373&text_color=555555&border_color=D9E2EA)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laiba-Akram&show_icons=true&theme=transparent&title_color=176B68&icon_color=D4A373&text_color=555555&border_color=D9E2EA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Akram&layout=compact&theme=transparent&title_color=176B68&text_color=555555&border_color=D9E2EA)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Akram&layout=compact&theme=transparent&title_color=176B68&text_color=555555&border_color=D9E2EA)
 
 ## Let's Connect
 
